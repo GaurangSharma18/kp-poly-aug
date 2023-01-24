@@ -59,7 +59,7 @@ python augmented_fo_dataset.py
 
 ## Dataset preparation for Detectron
 
-The script is based on the official [Detectron2 integration with fifty-one ] https://docs.voxel51.com/tutorials/detectron2.html).
+The script is based on the official [Detectron2 integration with fifty-one ](https://docs.voxel51.com/tutorials/detectron2.html).
 
 Load the dataset, split it into training/validation and train a model.
 ``` 
